@@ -16,18 +16,18 @@ My work focuses on:
 - Developing reliable backend services
 - Deploying applications on cloud infrastructure
 
-I primarily work with **React, Angular, Next.js, Node.js** and
+I primarily work with **React, Angular, Next.js, Node.js** , AWS and
 **Microsoft Azure**.
 
-📫 **Email:** ravikumaradem1792@gmail.com  
-🌐 **Portfolio:** https://ravikumaradem-portfolio.vercel.app
+📫 **Email:** maheshbatta539@gmail.com 
+🌐 **Portfolio:** https://portfolio-6oxd.onrender.com/
 
 <h3>Connect</h3>
 <p>
-  <a href="https://linkedin.com/in/puzzlebyteravikumar">
+  <a href="[https://linkedin.com/in/puzzlebyteravikumar](https://www.linkedin.com/in/mahesh-batta-a25a81328/)">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  <a href="https://wa.me/916300686036">
+  <a href="https://wa.me/919381195890">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
   </a>
 </p>
@@ -64,11 +64,11 @@ I primarily work with **React, Angular, Next.js, Node.js** and
 <h3 align="left">💻 Problem Solving</h3>
 <p align="left">
   <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/raviadem8055" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <a href="https://www.geeksforgeeks.org/profile/maheshbatta" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="HackerRank" />
   </a>
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/ravikumaradem/" target="_blank">
+  <a href="https://leetcode.com/u/maheshbatta/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
